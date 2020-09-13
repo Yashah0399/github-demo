@@ -1,0 +1,19 @@
+Git Version
+git version
+
+Git Status
+git status
+
+Adding file to staging Area
+git add filename
+
+Commit in local repository
+git commit -m "description"
+
+Commit in remote repository
+git push origin master
+
+Configure username and email
+git config --global user.name "username"
+git config --global user.email "email"
+git config --global --list
