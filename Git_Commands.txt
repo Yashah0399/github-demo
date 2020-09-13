@@ -17,3 +17,9 @@ Configure username and email
 git config --global user.name "username"
 git config --global user.email "email"
 git config --global --list
+
+Open notepad using git bash (user home dictory)
+notepad++ .bash_profile
+
+Check git bash config file
+cat ~/.gitconfig
